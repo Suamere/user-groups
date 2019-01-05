@@ -6,7 +6,16 @@ Your group is important to the Oklahoma tech community, and Techlahoma is excite
 
 ### Meetup
 
-As we mentioned before, Meetup is very important for our process. Without Meetup, we wouldn't be able to provide the services we provide including scheduling. Please be sure to schedule your meetings at least 7 days in advance each time.
+We have a few requirements for your meetup.
+
+- Avoid recurring events
+  We have automation in place that schedules tweets and opens issues, and recurring events don't play nicely with our automation.
+
+- Schedule all meetings at least 7 days in advance
+  Please make sure the event is created on meetup at least 7 days in advance. There are a few reasons for this, including our automation and generally making sure space is available. It's also nice for your attendees to be able to know when and where the next meeting will be with enough planning time. Meetup automatically announces your meeting 7 days before it occurs to your members as well.
+
+- Coordinate any streaming with the broadcasting committee
+  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the #ss46-ug-leaders channel in slack. (If you are not in this channel, you can request access from the usergroup committee.)
 
 *Please note that if your meeting is not scheduled on Meetup at least 7 days in advance, **you will not be able to meet at Starspace46.***
 
