@@ -14,7 +14,7 @@ Please note that we use [Meetup](https://www.meetup.com/) for events. Meetup all
 
 We have a few requirements for your meetup.
 
-- Avoid recurring events
+- Avoid recurring events  
   We have automation in place that schedules tweets and opens issues, and recurring events don't play nicely with our automation.
 
 - Schedule all meetings at least 7 days in advance
@@ -27,15 +27,15 @@ We have a few requirements for your meetup.
 
 { if approved for SS46 }
 
-### Starspace46
+### StarSpace46
 
-If your group plans to meet at Starspace46:
+If your group plans to meet at StarSpace46:
 
 - At least two co-organizers must sign and return the Starspace46 User Group Leader agreement to Ava **by 2/1.**
-  You may sign the agreement and send Ava a picture of the signed agreement in Slack or give it to her directly when you are at StarSpace.
+  You may sign the agreement and send Ava a picture of the signed agreement in Slack or give it to her directly when you are at StarSpace46.
 
 - Meetups must be scheduled at least one week in advance  
-  Starspace requires at least 7 days notice in order to use the event space. If your meetup is not scheduled at least one week in advance, Starspace46 will not be available.
+  StarSpace46 requires at least 7 days notice in order to use the event space. If your meetup is not scheduled at least one week in advance, StarSpace46 will not be available.
 
 *Please note that this agreement needs to signed again each year.*
 
@@ -58,7 +58,7 @@ In order to arrange your reimbursement, please provide the following:
 - A picture of the receipt
 - A photo of the meetup in action (posted to the Meetup event)
 
-Once those have been provided via the event's Github issue, you can apply for reimbursement through Venmo. If you are unfamiliar with Venmo, please [check out our instructions](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md).
+Once those have been provided via the event's GitHub issue, you can apply for reimbursement through Venmo. If you are unfamiliar with Venmo, please [check out our instructions](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md).
 
 We are very excited to be working with you this year and beyond! If you have any questions, please contact the usergroup committee in `#usergroup-organizers` on Slack.
 
