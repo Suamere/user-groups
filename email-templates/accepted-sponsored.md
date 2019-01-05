@@ -8,7 +8,7 @@ Your group is important to the Oklahoma tech community, and Techlahoma is excite
 
 We have a few requirements for your meetup.
 
-- Avoid recurring events
+- Avoid recurring events  
   We have automation in place that schedules tweets and opens issues, and recurring events don't play nicely with our automation.
 
 - Schedule all meetings at least 7 days in advance
@@ -17,19 +17,19 @@ We have a few requirements for your meetup.
 - Coordinate any streaming with the broadcasting committee
   If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the #ss46-ug-leaders channel in slack. (If you are not in this channel, you can request access from the usergroup committee.)
 
-*Please note that if your meeting is not scheduled on Meetup at least 7 days in advance, **you will not be able to meet at Starspace46.***
+*Please note that if your meeting is not scheduled on Meetup at least 7 days in advance, **you will not be able to meet at StarSpace46.***
 
 { if approved for SS46 }
 
-### Starspace46
+### StarSpace46
 
-If your group plans to meet at Starspace46:
+If your group plans to meet at StarSpace46:
 
-- At least two co-organizers must sign and return the Starspace46 User Group Leader agreement to Ava **by 2/1.**
-  You may sign the agreement and send Ava a picture of the signed agreement in Slack or give it to her directly when you are at StarSpace.
+- At least two co-organizers must sign and return the StarSpace46 User Group Leader agreement to Ava **by 2/1.**
+  You may sign the agreement and send Ava a picture of the signed agreement in Slack or give it to her directly when you are at StarSpace46.
 
 - Meetups must be scheduled at least one week in advance  
-  Starspace requires at least 7 days notice in order to use the event space. If your meetup is not scheduled at least one week in advance, Starspace46 will not be available.
+  StarSpace46 requires at least 7 days notice in order to use the event space. If your meetup is not scheduled at least one week in advance, StarSpace46 will not be available.
 
 *Please note that this agreement needs to signed again each year.*
 
@@ -37,7 +37,7 @@ If your group plans to meet at Starspace46:
 
 ### 36 Degrees North
 
-Additionally, we are pleased to offer space for your group to meet at [36°N](https://www.36degreesnorth.co/contact/). Please contact Luke Crouch (@groovecoder in Slack) for more infromation.
+Additionally, we are pleased to offer space for your group to meet at [36°N](https://www.36degreesnorth.co/contact/). Please contact Luke Crouch (@groovecoder in Slack) for more information.
 
 { if approved for food/drink reimbursement }
 
@@ -52,7 +52,7 @@ In order to arrange your reimbursement, please provide the following:
 - A picture of the receipt
 - A photo of the meetup in action (posted to the Meetup event)
 
-Once those have been provided via the event's Github issue, you can apply for reimbursement through Venmo. If you are unfamiliar with Venmo, please [check out our instructions](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md).
+Once those have been provided via the event's GitHub issue, you can apply for reimbursement through Venmo. If you are unfamiliar with Venmo, please [check out our instructions](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md).
 
 We are very excited to be working with you this year and beyond! If you have any questions, please contact the usergroup committee in `#usergroup-organizers` on Slack.
 
