@@ -21,9 +21,9 @@ We have a few requirements for your meetup.
   Please make sure the event is created on meetup at least 7 days in advance. There are a few reasons for this, including our automation and generally making sure space is available. It's also nice for your attendees to be able to know when and where the next meeting will be with enough planning time. Meetup automatically announces your meeting 7 days before it occurs to your members as well.
 
 - Coordinate any streaming with the broadcasting committee
-  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the #ss46-ug-leaders channel in slack. (If you are not in this channel, you can request access from the usergroup committee.)
+  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the #ss46-ug-leaders or #usergroup-organizers channels in Slack. (If you are not in this channel, you can request access from the usergroup committee.)
 
-*Please note that if your meeting is not scheduled on Meetup at least 7 days in advance, **you will not be able to meet at Starspace46.***
+*Please note that if your meeting is not scheduled on Meetup at least 7 days in advance, **you will not be able to meet at StarSpace46.***
 
 { if approved for SS46 }
 
@@ -31,7 +31,7 @@ We have a few requirements for your meetup.
 
 If your group plans to meet at StarSpace46:
 
-- At least two co-organizers must sign and return the Starspace46 User Group Leader agreement to Ava **by 2/1.**
+- At least two co-organizers must sign and return the [StarSpace46 User Group Leader agreement](https://docs.google.com/document/d/1q1m6q4v3VrS6yVuP-tVImkNZZXG0pq_uktydbfWiovM/edit) to Ava **by 2/1.**
   You may sign the agreement and send Ava a picture of the signed agreement in Slack or give it to her directly when you are at StarSpace46.
 
 - Meetups must be scheduled at least one week in advance  
@@ -43,7 +43,7 @@ If your group plans to meet at StarSpace46:
 
 ### 36 Degrees North
 
-Additionally, we are pleased to offer space for your group to meet at [36°N](https://www.36degreesnorth.co/contact/). Please contact Luke Crouch (@groovecoder in Slack) for more infromation.
+Additionally, we are pleased to offer space for your group to meet at [36°N](https://www.36degreesnorth.co/contact/). Please contact Luke Crouch (@groovecoder in Slack) for more information.
 
 { if approved for food/drink reimbursement }
 
