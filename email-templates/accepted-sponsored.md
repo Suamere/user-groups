@@ -25,7 +25,7 @@ We have a few requirements for your meetup.
 
 If your group plans to meet at StarSpace46:
 
-- At least two co-organizers must sign and return the StarSpace46 User Group Leader agreement to Ava **by 2/1.**
+- At least two co-organizers must sign and return the [StarSpace46 User Group Leader agreement](https://docs.google.com/document/d/1q1m6q4v3VrS6yVuP-tVImkNZZXG0pq_uktydbfWiovM/edit) to Ava **by 2/1.**
   You may sign the agreement and send Ava a picture of the signed agreement in Slack or give it to her directly when you are at StarSpace46.
 
 - Meetups must be scheduled at least one week in advance  
