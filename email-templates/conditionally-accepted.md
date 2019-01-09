@@ -21,7 +21,7 @@ We have a few requirements for your meetup.
   Please make sure the event is created on meetup at least 7 days in advance. There are a few reasons for this, including our automation and generally making sure space is available. It's also nice for your attendees to be able to know when and where the next meeting will be with enough planning time. Meetup automatically announces your meeting 7 days before it occurs to your members as well.
 
 - Coordinate any streaming with the broadcasting committee
-  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the #ss46-ug-leaders or #usergroup-organizers channels in Slack. (If you are not in this channel, you can request access from the usergroup committee.)
+  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the #ss46-ug-leaders channel in Slack. (If you are not in this channel, you can request access from the usergroup committee.)
 
 *Please note that if your meeting is not scheduled on Meetup at least 7 days in advance, **you will not be able to meet at StarSpace46.***
 
