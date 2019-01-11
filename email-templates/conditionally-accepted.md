@@ -39,11 +39,17 @@ If your group plans to meet at StarSpace46:
 
 *Please note that this agreement needs to signed again each year.*
 
-{ if approved for 36N }
+{ if Tulsa }
 
-### 36 Degrees North
+### Tulsa
 
-Additionally, we are pleased to offer space for your group to meet at [36°N](https://www.36degreesnorth.co/contact/). Please contact Luke Crouch (@groovecoder in Slack) for more information.
+In Tulsa, we are happy to help you find space for your meetups.
+
+If you’re meetup overlaps with the entrepreneurship community, you may find 36°N to be a good venue partner. We can introduce you to their venue coordinator and help you fill out [their event rental application](https://www.36degreesnorth.co/eventrental).
+
+We have also partnered with Tulsa Library on a number of Techlahoma events. Their [meeting rooms are free to book with your library card](https://www.tulsalibrary.org/using-the-library/meeting-rooms), and we can introduce you to Central Library’s Digital Literacy Lab coordinator to help arrange your events.
+
+Please contact Luke Crouch (@groovecoder in Slack) for more information.
 
 { if approved for food/drink reimbursement }
 
