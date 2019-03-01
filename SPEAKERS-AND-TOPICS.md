@@ -42,14 +42,16 @@ or topics for which you intend to keep up-to-date slide decks.
   * Reliability is one aspect of software that everyone wants, some promise, and few achieve. We can confidently keep our reliability promises if we methodically plan for reliability in our software design. This talk explores the real meaning of reliability, andd methods to achieve it, through a story about a somewhat fictional project.
 * Test Driven Infrastructure, Ryan Hoegg
   * Our servers, networks, and complete production environments can be delivered using many of the same techniques we've been successful with in software development.  This talk is a technical demonstration using Test Kitchen (http://kitchen-ci.org/) to build a production environment using automated tests.
-* Responsibility, Concerns, and Cohesion, Suamere
+* Responsibility, Concerns, and Cohesion, Steven Fletcher
   * There is a correlation between Separation of Concerns, and Coehesion.  There is a difference between Separation of Concerns and Single Responsibility Principle.  This talk details what each one is, and actual application of these principles in code.
-* Exceptions: Playing Catch / To Throw or Not To Throw, Suamere
+* Exceptions: Playing Catch / To Throw or Not To Throw, Steven Fletcher
   * What if I told you that, in some codebases, I search CTRL+F for the word "catch" and, if any results come up, I fail code reviews.  There are strict times when you should ever use try/catch blocks.  This talk explains when you should Throw, Throw ex, or even catch in the first place.
-* Anemia: How Anemic is too Anemic?, Suamere
-  * The great Martin Fowler once wrote an article outlining why Anemic Domain Models are bad.  But what he was talking about was different than the Anemia we have today.  This talk outlines what Anemia means today, and why it is absolutely necessary in Service Oriented Architecture.
-* Advanced Regex in C# Flavor, Suamere
+* Game of Services- Anemia is Coming?, Steven Fletcher
+  * This is a 30 or 60 minute talk about Service-Oriented Programming, how it relates to MicroServices, how project references and Anemic Domain Models work, and how Stateless Architectures like SOA and MicroServices contrast to Stateful Paradigms like OO.
+* Advanced Regex in C# Flavor, Steven Fletcher
   * This is a fun talk, if that's what you're into, about Regular Expressions in C#;  When to use them, How to use them, and some things C# Regex can do that no other Regex flavor can do.
+* Catching the MicroService Unicorn, Steven Fletcher
+  * There are innumerable conceptual talks about MicroServices, including their challenges and principles.  Let's actually walk through some real C# that addresses those principles and challenges.  On the other side, we'll have a real Unicorn, the stuff people talk about.
 * XSS Attacks - Stop 'em In Their Tracks!, Joshua Walcher 
   * What XSS attacks are and how to test your website and protect it from XSS Attacks.
 * How to Build Automated Smoke Tests Using Protractor, Dale Spoonemore
@@ -71,8 +73,8 @@ or topics for which you intend to keep up-to-date slide decks.
   * Web Developer for @mozilla, co-founder of @codesyio, collaborator on @tulsawebdevs, @codefortulsa, and @techlahoma; husband, dad; crossfit, homebrew, soccer fan
 * Jonathan Bartlett
   * Chief Nerd in Charge at New Medio; author of several books on computer programming; coordinator for TulsaWebDevs; homeschool co-op instructor; director of The Blyth Institute; Masters in Theology from Phillips Theological Seminary
-* Suamere - Steven Fletcher
-  * Usually Independent Contractor, currently Enterprise Architect at Trevo, LLC.  Nerd since birth, Programmer for 20+ Years.  Purveyor of Principles.
+* Steven Fletcher (contact: Steven, domain: WebFletch.com)
+  * Steven started WebFletch in 2006, incorporated in 2007, with the goal to further businesses and dev communities in the ways of Service-Oriented Everything, now sub-categorized as MicroServices.
 * Carmen Long (twitter: @carmalou)
   * Carmen is a JavaScript developer with experience in Angular, Ionic, and Electron. By day she writes desktop apps with Electron, and by night she builds twitterbots and plays board games. Carmen is a frequent speaker at OKC.js and runs the Nerdy Girls codeClub.
 * Joshua Walcher (twitter: @josh_walcher)
